@@ -16,4 +16,4 @@ Analyses:
 2. Bar chart of which zip codes has the highest number of permits (residential and commercial)
 3. heat map of permit counts
 4. bar chart comparison of new construction vs remodel residential properties in a particular area (by permit count)
-5. what proportion of work was on condominiums on a specific area
+5. the rate of new condominiums being built in different areas
