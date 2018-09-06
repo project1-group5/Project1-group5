@@ -1,8 +1,12 @@
 # Project1-group5
 Repository for class project
 
+# See "Austin Area 5yr Development" presentation slides
+
 Objective:
 An exploration of Austin real estate development over the past 5 years, to see how the city has been changing in response to the increasing population.
+
+# Data: https://data.austintexas.gov/Building-and-Development/Construction-Permits-Issued-since-2010/d792-2sc3
 
 Data clean up and exploration:
 1. Filter 'Since 2010' dataset to >= 2013 to represent work over past 5 years.
